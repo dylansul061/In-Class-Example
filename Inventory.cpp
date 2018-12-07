@@ -5,7 +5,7 @@
 #include <string>
 
 //// I believe this is finished /////: in main just need to have appropriate adds and removes for each vertex
-
+//this is in github now, look into git pull-ing 
 Inventory::Inventory() {
   Items emergencyHelp;
   Items Clues;
